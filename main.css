@@ -1,0 +1,76 @@
+body {
+	font-family: 'Raleway', sans-serif;
+    background: url('lisabg.png') no-repeat top;
+    background-size: cover;
+    height: auto;  
+    max-width: 100%;
+}
+
+span.event {
+    display: block;
+    font-size: 28px;
+    letter-spacing: 6px;
+}
+
+.sidetext {
+    margin: 0 0 0 67px;
+    line-height: 26px;
+}
+
+span.experience {
+    display: block;
+    font-size: 22px;
+    letter-spacing: 4px;
+}
+
+span.celeb {
+    display: block;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
+/*.jumbotron.logo {
+    text-align: center;
+    margin: 50px;
+}
+
+span.lisa {
+    display: block;
+    text-transform: uppercase;
+    font-size: 60px;
+    letter-spacing: 18px;
+    line-height: 24px;
+}
+
+span.marie {
+    display: block;
+    text-transform: uppercase;
+    font-size: 50px;
+    letter-spacing: 9px;
+}*/
+
+/*span.projects {
+    display: block;
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 5px;
+    line-height: 12px;
+}*/
+
+
+
+span.soon {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+	font-size: 40px;
+    color: white;
+    display: block;
+    padding-top: 220px;
+    font-weight: 200;
+}
+
+.lisalogo {
+    height: auto;
+    max-width: 100%;
+    padding-top: 50px;
+}
